@@ -1,0 +1,402 @@
+#lc_1 {
+    /*Therapeutic Community Title*/
+    position: absolute;
+width: 448px;
+height: 82px;
+left: 532px;
+top: 231px;
+}
+
+#lc_2 {
+    /*Get Started With Your Therapeutic Community Text*/
+    position: absolute;
+width: 935px;
+height: 124px;
+left: 260px;
+top: 381px;
+}
+
+#lc_3 {
+    /*Because Humans Text*/
+    position: absolute;
+width: 1170px;
+height: 185px;
+left: 158px;
+top: 505px;
+}
+
+#lc_4 {
+    position: absolute;
+width: 903px;
+height: 105px;
+left: 291px;
+top: 661px;
+
+background: #F3F3F3;
+}
+
+#lc_5 {
+    position: absolute;
+width: 904px;
+height: 105px;
+left: 291px;
+top: 692px;
+}
+
+/*List of Therapeutic Communites*/
+/* Row 1*/
+#lc_6 {
+    position: absolute;
+    width: 158px;
+    height: 30px;
+    left: 152px;
+    top: 824px;
+}
+
+#lc_7 {
+    position: absolute;
+    width: 216px;
+    height: 30px;
+    left: 152px;
+    top: 885px;
+    
+}
+
+#lc_8 {
+    position: absolute;
+    width: 216px;
+    height: 30px;
+    left: 152px;
+    top: 946px;
+}
+
+#lc_9 {
+    position: absolute;
+    width: 319px;
+    height: 30px;
+    left: 152px;
+    top: 1007px;
+    
+}
+
+#lc_10 {
+    position: absolute;
+    width: 301px;
+    height: 30px;
+    left: 152px;
+    top: 1068px;
+}
+
+#lc_11 {
+    position: absolute;
+    width: 216px;
+    height: 30px;
+    left: 152px;
+    top: 1129px;
+}
+
+#lc_12 {
+    position: absolute;
+    width: 216px;
+    height: 30px;
+    left: 152px;
+    top: 1190px;
+}
+
+#lc_13 {
+    position: absolute;
+    width: 216px;
+    height: 30px;
+    left: 152px;
+    top: 1251px;
+    
+}
+
+#lc_14 {
+    position: absolute;
+    width: 334px;
+    height: 30px;
+    left: 152px;
+    top: 1312px;
+}
+
+#lc_15 {
+    position: absolute;
+    width: 216px;
+    height: 30px;
+    left: 152px;
+    top: 1373px;
+}
+
+/*Row 2*/
+
+#lc_16 {
+
+position: absolute;
+width: 216px;
+height: 30px;
+left: 592px;
+top: 824px;
+}
+
+#lc_17 {
+    position: absolute;
+    width: 244px;
+    height: 30px;
+    left: 592px;
+    top: 885px;
+}
+
+#lc_18 {
+    position: absolute;
+    width: 216px;
+    height: 30px;
+    left: 592px;
+    top: 946px;
+}
+
+#lc_19 {
+    position: absolute;
+    width: 338px;
+    height: 30px;
+    left: 592px;
+    top: 1007px;
+    
+    
+}
+
+#lc_20 {
+    position: absolute;
+    width: 286px;
+    height: 30px;
+    left: 592px;
+    top: 1068px;
+}
+
+#lc_21 {
+    position: absolute;
+    width: 286px;
+    height: 30px;
+    left: 592px;
+    top: 1129px;
+}
+
+#lc_22 {
+    position: absolute;
+    width: 308px;
+    height: 30px;
+    left: 592px;
+    top: 1190px;
+}
+
+#lc_23 {
+    position: absolute;
+    width: 216px;
+    height: 30px;
+    left: 592px;
+    top: 1251px;
+}
+
+#lc_24 {
+    position: absolute;
+    width: 327px;
+    height: 30px;
+    left: 592px;
+    top: 1312px;
+}
+
+#lc_25 {
+    position: absolute;
+    width: 286px;
+    height: 30px;
+    left: 592px;
+    top: 1373px;
+}
+
+/*Row 3*/
+
+#lc_26 {
+    position: absolute;
+    width: 266px;
+    height: 30px;
+    left: 1058px;
+    top: 800px;
+
+}
+
+#lc_27 {
+    position: absolute;
+    width: 266px;
+    height: 30px;
+    left: 1058px;
+    top: 885px;
+}
+
+#lc_28 {
+    position: absolute;
+    width: 216px;
+    height: 30px;
+    left: 1058px;
+    top: 946px;
+}
+
+#lc_29 {
+    position: absolute;
+    width: 266px;
+    height: 30px;
+    left: 1058px;
+    top: 1007px;
+}
+
+#lc_30 {
+    position: absolute;
+    width: 253px;
+    height: 30px;
+    left: 1058px;
+    top: 1068px;
+}
+
+#lc_31 {
+    position: absolute;
+    width: 289px;
+    height: 30px;
+    left: 1058px;
+    top: 1129px;
+}
+
+#lc_32 {
+    position: absolute;
+    width: 279px;
+    height: 30px;
+    left: 1058px;
+    top: 1190px;
+}
+
+#lc_33 {
+    position: absolute;
+    width: 289px;
+    height: 30px;
+    left: 1058px;
+    top: 1251px;
+    
+}
+
+#lc_34 {
+    position: absolute;
+    width: 216px;
+    height: 30px;
+    left: 1058px;
+    top: 1312px;
+}
+
+#lc_35 {
+    position: absolute;
+    width: 279px;
+    height: 30px;
+    left: 1058px;
+    top: 1373px;
+}
+
+/* End of list of Therapeutic Communites*/
+
+#lc_36 {
+    /*Therapeutic COmmunity title*/
+    position: absolute;
+width: 568px;
+height: 69px;
+left: 413px;
+top: 1516px;
+}
+
+/*Therapeutic Community Pricing Card*/
+#lc_37 {
+    position: absolute;
+    width: 308px;
+    height: 467px;
+    left: 546px;
+    top: 1618px;
+}
+
+#lc_38 {
+    position: absolute;
+width: 71px;
+height: 60px;
+left: 657.88px;
+top: 1639px;
+}
+
+#lc_39 {
+    position: absolute;
+left: 595px;
+top: 1719px;
+}
+
+#lc_40 {
+    position: absolute;
+width: 86px;
+height: 46px;
+left: 662.88px;
+top: 1896px;
+}
+
+#lc_41 {
+    position: absolute;
+width: 225.75px;
+height: 43.42px;
+left: 585px;
+top: 1961.79px;
+}
+
+#lc_42 {
+    position: absolute;
+width: 11px;
+height: 21px;
+left: 646.88px;
+top: 1908px;
+
+}
+
+#lc_43 {
+    position: absolute;
+width: 45px;
+height: 21px;
+left: 729px;
+top: 1908px;
+}
+
+/* End of Therapeutic Community Pricing Card
+
+/*Footer*/
+
+#lc_44 {
+    position: absolute;
+width: 1440px;
+height: 92px;
+left: 0px;
+top: 2142px;
+}
+
+#lc_45 {
+    position: absolute;
+width: 210px;
+height: 70px;
+left: 81px;
+top: 2148px;
+
+}
+
+#lc_46 {
+    position: absolute;
+    width: 323px;
+    height: 29px;
+    left: 559px;
+    top: 2174px;
+}
+
+#lc_47 {
+    position: absolute;
+width: 263px;
+height: 29px;
+left: 1084px;
+top: 2173px;
+}

@@ -1,0 +1,430 @@
+#e4_2 { 
+	/* logo1 1 */
+
+
+position: absolute;
+width: 210px;
+height: 70px;
+left: 0px;
+top: 35px;
+
+background: url(logo.png);
+}
+
+
+#topnav { 
+	position: absolute;
+left: 25.35%;
+right: 16.81%;
+top: 9.4%;
+bottom: 84.68%;
+
+font-family: Sarabun;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 21px;
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+}
+
+#e4_25 { 
+    position: absolute;
+    width: 1440px;
+    height: 777px;
+    left: 0px;
+    top: 0px;
+}
+
+#e4_4 { 
+    /* Rectangle 3 */
+
+
+    position: absolute;
+    width: 1440px;
+    height: 777px;
+    left: 0px;
+    top: 0px;
+    
+    background: linear-gradient(180deg, rgba(0, 255, 239, 0.41) 36.02%, rgba(32, 68, 88, 0.41) 100%);
+}
+
+#e4_23 { 
+	position:relative;
+	opacity:1;
+	width:129px;
+	height:46px;
+}
+#e1_8 { 
+	position: absolute;
+width: 129px;
+height: 46px;
+left: 1218px;
+top: 75px;
+
+}
+
+#e35_0 { 
+	/* Get a trainer and start living the life of your dreams! */
+
+
+    position: absolute;
+    width: 685px;
+    height: 109px;
+    left: 371px;
+    top: 251px;
+
+}
+
+#ee35_0 {
+    /* Fill in the short questionnaire...text*/
+    position: absolute;
+left: 296px;
+top: 379px;
+
+}
+
+#e4_28 { 
+	position: absolute;
+width: 287px;
+height: 60px;
+left: 408px;
+top: 469px;
+
+background: #FFFFFF;
+border-radius: 5px;
+}
+
+#e4_33 { 
+	position: absolute;
+width: 287px;
+height: 60px;
+left: 745px;
+top: 469px;
+
+border: 1px solid #FFFFFF;
+box-sizing: border-box;
+border-radius: 5px;
+}
+
+#e12_3 { 
+	position: absolute;
+width: 935px;
+height: 124px;
+left: 253px;
+top: 703px;
+
+}
+
+#e12_4 { 
+    /* Transformation Card */
+	position: absolute;
+width: 330px;
+height: 447px;
+left: 130px;
+top: 997px;
+
+}
+
+#e12_5 {
+    /* Wealth and Growth Card*/
+    position: absolute;
+width: 330px;
+height: 447px;
+left: 555px;
+top: 997px;
+}
+
+#e12_6 {
+    /*Love and Passion Card*/
+
+    position: absolute;
+width: 330px;
+height: 447px;
+left: 980px;
+top: 997px;
+}
+
+#e12_7 {
+    position: absolute;
+width: 329px;
+height: 31px;
+left: 550px;
+top: 1465px;
+}
+
+#e12_8 {
+    position: absolute;
+width: 591px;
+height: 215px;
+left: 89px;
+top: 1552px;
+}
+
+#ee12_81 {
+    /* What We Are About Text*/
+
+    position: absolute;
+left: 108px;
+
+top: 856px;
+
+}
+
+#e12_9 {
+    position: absolute;
+width: 598px;
+height: 215px;
+left: 527px;
+top: 1552px;
+}
+
+#e12_10 {
+    position: absolute;
+width: 391px;
+height: 215px;
+left: 974px;
+top: 1552px;
+}
+
+#e12_11 {
+    position: absolute;
+width: 287px;
+height: 60px;
+left: 571px;
+top: 1837px;
+}
+
+#e12_12 {
+    position: absolute;
+width: 587px;
+height: 69px;
+left: 89px;
+top: 2113px;
+}
+
+#e12_13 {
+    position: absolute;
+width: 553px;
+height: 145px;
+left: 89px;
+top: 2201px;
+}
+
+#e12_14 {
+    position: absolute;
+width: 486px;
+height: 409px;
+left: 804px;
+top: 2096px;
+}
+
+#e12_15 {
+    position: absolute;
+width: 1278px;
+height: 472px;
+left: 93px;
+top: 2706px;
+}
+
+#e12_16 {
+    position: absolute;
+width: 1253px;
+height: 625px;
+left: 93px;
+top: 3315px;
+
+}
+
+#e12_17 {
+    position: absolute;
+    width: 587px;
+    height: 69px;
+    left: 95px;
+    top: 4112px;
+
+}
+
+#e12_18 {
+    position: absolute;
+width: 1252px;
+height: 236px;
+left: 94px;
+top: 4557px;
+}
+
+#e12_19 {
+    position: absolute;
+width: 1440px;
+height: 92px;
+left: 0px;
+top: 4991px;
+}
+
+#e12_20 {
+    position: absolute;
+width: 210px;
+height: 70px;
+left: 81px;
+top: 4997px;
+}
+
+#e12_21 {
+    position: absolute;
+width: 323px;
+height: 29px;
+left: 559px;
+top: 5023px;
+display: flex;
+align-items: center;
+}
+
+#e12_22 {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 1052px;
+    top: 5027px;
+}
+
+#e12_23 {
+    position: absolute;
+width: 263px;
+height: 29px;
+left: 1084px;
+top: 5022px;
+display: flex;
+align-items: center;
+}
+
+#e35_18 {
+    position: absolute;
+width: 547px;
+height: 158px;
+left: 783px;
+top: 4151px;
+
+}
+
+#e44_44 {
+    position: absolute;
+width: 527px;
+height: 58px;
+left: 95px;
+top: 4170px;
+
+}
+
+#e44_45 {
+    position: absolute;
+width: 580px;
+height: 296px;
+left: 766px;
+top: 4101px;
+}
+
+#e44_46 {
+    position: absolute;
+width: 52px;
+height: 24px;
+left: 797px;
+top: 4359px;
+
+}
+
+#e44_47 {
+    position: absolute;
+width: 582px;
+height: 5px;
+left: 764px;
+top: 4392px;
+}
+
+#e44_50 {
+    position: absolute;
+left: 342px;
+top: 73px;
+}
+
+#e44_51 {
+    position: absolute;
+left: 481px;
+top: 73px;
+}
+
+#e44_52 {
+    position: absolute;
+    left: 620px;
+    top: 73px;
+}
+
+#e44_53 {
+    position: absolute;
+    left: 759px;
+    top: 73px;
+}
+
+#e44_54 {
+    position: absolute;
+    left: 941px;
+    top: 73px;
+}
+
+#e44_55 {
+    position: absolute;
+    left: 1060px;
+    top: 73px;
+}
+
+.fade-in {
+    animation: fadeIn ease 2s;
+    -webkit-animation: fadeIn ease 2s;
+    -moz-animation: fadeIn ease 2s;
+    -o-animation: fadeIn ease 2s;
+    -ms-animation: fadeIn ease 2s;
+  }
+  @keyframes fadeIn {
+    0% {
+      opacity:0;
+    }
+    100% {
+      opacity:1;
+    }
+  }
+  
+  @-moz-keyframes fadeIn {
+    0% {
+      opacity:0;
+    }
+    100% {
+      opacity:1;
+    }
+  }
+  
+  @-webkit-keyframes fadeIn {
+    0% {
+      opacity:0;
+    }
+    100% {
+      opacity:1;
+    }
+  }
+  
+  @-o-keyframes fadeIn {
+    0% {
+      opacity:0;
+    }
+    100% {
+      opacity:1;
+    }
+  }
+  
+  @-ms-keyframes fadeIn {
+    0% {
+      opacity:0;
+    }
+    100% {
+      opacity:1;
+    }

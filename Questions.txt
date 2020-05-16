@@ -1,0 +1,169 @@
+What is your gender?
+Male 
+Female
+Transgender: female to Male
+Transgender: Male to female
+Non-binary
+Gender fluid
+Other
+
+How old are you?
+
+What is your orientation?
+Straight 
+Gay
+Lesbian
+Bisexual
+Questioning
+Pansexual
+Queer
+Asexual
+I dont know
+
+What is your relationship status?
+
+Single 
+In a relationship
+Married 
+Divorced
+Widowed
+Other
+
+Do you consider youself to be religious?
+Yes
+No
+
+Which religion do you identify with?
+Christianity
+Judaism
+Islam
+Other
+
+Would you like to be matched with a couselor who provides christian based counseling?
+Yes
+No
+
+Do you consider yourself to be spiritual?
+Yes 
+No
+
+Have you ever been in counseling or therapy before?
+No 
+Yes
+
+Do you feel that your mental health is being impacted by the coronavirus outbreak?
+Yes
+No
+Maybe
+
+How would you rate your current physical health
+Good 
+fair 
+poor
+
+How would you rate your current eating habits?
+Good
+fair
+poor
+
+Are you currently experiencing overwhelming sadness, grief, or depression?
+No
+Yes
+
+Over the past 2 weeks, how often have you been bothered by any of the following problems:
+-Little interest or pleasure in doing things?
+
+Not at all
+Several days
+More than half the days
+Nearly every days
+
+-Moving or speaking so slowly that other people could have noticed? Or the opposite - being so fidgety or restless that you have been moving around a lot more than usual.
+{insert answers from previous question}
+
+Feeling down, depressed or hopeless?
+{}
+
+Trouble falling asleep, staying asleep, or sleeping too much.
+{}
+
+feeling tired or having little energy?
+{}
+
+Poor appetite or overating
+{}
+
+Feeling bad about yourself - or that you are a failure or have let yourself or you family down
+{}
+
+Trouble concentrating on things, such as reading the newspaper or watching television
+{}
+
+Thoughts that you would be better off dead or hurting yourself in some way
+{}
+
+How difficult have these problems made it for you to do your work, take care of things at home, or get along with other people
+
+Not difficult at all
+SOmewhat difficult
+very difficult
+Extremely difficult
+
+Are you currently employed
+Yes
+No
+
+Do you have any problems or worries about intimacy?
+No
+Yes
+
+How often do you drink alcohol?
+Never
+Infrequently
+monthly
+Weekly
+Daily
+
+When was the last time you had a plan for suicide?
+Never
+Over a year ago
+Over 3 months ago
+Over a month ago
+Over a week ago
+This week
+
+Are you currently expiriencing anxiety, panic attacks or have any phobias?
+No
+Yes
+
+Are you currently taking medication?
+Yes
+No
+
+Are you currently expeirencing chronic pain?
+No
+Yes
+
+How would you rate yuor financial status
+Good
+fair
+poor
+
+How would you rate your current sleeping habits
+good 
+fair
+poor
+
+What best describes the counselling you are seeking?
+Mental health counselling
+Spiritual counselling
+Holistic counselling addressing both psychological and spiritual components
+Other
+
+
+Which country are you in
+
+What is your preferred language
+
+
+After questionnaire, create an account

@@ -1,0 +1,62 @@
+#eee12_19 {
+    /* logo1 2 */
+
+
+position: absolute;
+width: 210px;
+height: 70px;
+left: 87px;
+top: 797px;
+
+}
+
+#eee12_20{
+/* Terms & Conditions Privacy Policy */
+
+
+position: absolute;
+width: 323px;
+height: 29px;
+left: 565px;
+top: 827px;
+}
+
+#eee12_21{
+    /* Copyright Logo */
+
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 1058px;
+top: 829px;
+
+}
+
+#eee12_22 {
+    /* Blue DragonFly Center, Inc 2020. */
+
+
+position: absolute;
+width: 263px;
+height: 29px;
+left: 1090px;
+top: 827px;
+}
+
+#middle {
+    position: absolute;
+    width: 494px;
+    height: 60px;
+    left: 464px;
+    top: 405px;
+    
+    font-family: Sarabun;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 36px;
+    line-height: 47px;
+    
+    color: #FFFFFF;
+    
+}

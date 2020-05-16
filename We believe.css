@@ -1,0 +1,121 @@
+#wb_1 {
+    /*blue solid background image*/
+    position: absolute;
+width: 1440px;
+height: 461px;
+left: 0px;
+top: 0px;
+
+background: linear-gradient(180deg, #00FFEF -29.38%, rgba(32, 68, 88, 0.12) 172.93%);
+}
+
+#fff1_1 {
+    /*background image*/
+    position: absolute;
+width: 1440px;
+height: 461px;
+left: 0px;
+top: 0px;
+}
+
+#ee12_3 {
+    /*We believe text and white box*/
+    position: absolute;
+width: 935px;
+height: 124px;
+left: 260px;
+top: 381px;
+}
+
+#wb_2 {
+    /*Our vision text and title*/
+    position: absolute;
+width: 587px;
+height: 472px;
+left: 81px;
+top: 545px;
+
+}
+
+#ee12_12 {
+    /*Why dare to dream title*/
+    position: absolute;
+width: 344px;
+height: 69px;
+left: 548px;
+top: 1095px;
+}
+
+#wb_3 {
+    /*answer to why dare to dream text in the page Dare to dream*/
+    position: absolute;
+width: 553px;
+height: 810px;
+left: 63px;
+top: 1221px;
+}
+
+#wb_4 {
+    /*Welcome to the bluedragonfly center...text*/
+    position: absolute;
+    width: 864px;
+    height: 235px;
+    left: 304px;
+    top: 226px;
+    
+}
+
+#ee12_14 {
+    /*Infographic about how our real selves gets burried in a bunch of stuff*/
+    position: absolute;
+width: 486px;
+height: 409px;
+left: 853px;
+top: 1332px;
+}
+
+#ee12_19 {
+    /*Footer background img*/
+    position: absolute;
+width: 1440px;
+height: 92px;
+left: 0px;
+top: 2142px;
+}
+
+#ee12_20 {
+    /*Footer logo*/
+    position: absolute;
+width: 210px;
+height: 70px;
+left: 81px;
+top: 2148px;
+}
+
+#ee12_21 {
+    /*Footer terms and conditions*/
+    position: absolute;
+width: 323px;
+height: 29px;
+left: 559px;
+top: 2174px;
+}
+
+#ee12_23 {
+    /*Footer "Blue Dragonfly" text symbol*/
+    position: absolute;
+width: 263px;
+height: 29px;
+left: 1084px;
+top: 2173px;
+}
+
+#video {
+    position: absolute;
+width: 678px;
+height: 402px;
+left: 620px;
+top: 605px;
+
+background: #C4C4C4;
+}

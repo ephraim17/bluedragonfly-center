@@ -1,0 +1,126 @@
+#f1_1{
+    /*Solid background color*/
+    position: absolute;
+width: 1440px;
+height: 885px;
+left: 0px;
+top: 0px;
+
+background: linear-gradient(180deg, #00FFEF -97.34%, rgba(32, 68, 88, 0.12) 142.93%);
+}
+
+#ff1_1{
+    /*background image*/
+    position: absolute;
+width: 1440px;
+height: 885px;
+left: 0px;
+top: 0px;
+
+}
+
+#f1_2{
+    /*Great you've taken the first step towards living... text*/
+    position: absolute;
+width: 635px;
+height: 235px;
+left: 91px;
+top: 260px;
+}
+
+#f1_3{
+    position: absolute;
+width: 502px;
+height: 97px;
+left: 800px;
+top: 249px;
+
+font-family: Sarabun;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 153.19%;
+/* or 37px */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+#f1_4 {
+    /*Next Button*/
+    position: absolute;
+width: 449px;
+height: 63px;
+left: 822px;
+top: 506px;
+
+}
+
+#f5_131 {
+    position: absolute;
+    width: 210px;
+    height: 70px;
+    left: 87px;
+    top: 797px;
+}
+
+#f5_141 {
+    position: absolute;
+    width: 323px;
+    height: 29px;
+    left: 565px;
+    top: 827px;
+    
+    font-family: Sarabun;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 29px;
+    /* identical to box height */
+    
+    display: flex;
+    align-items: center;
+    
+    color: #FFFFFF;
+    
+}
+
+#f5_151 {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 1058px;
+    top: 829px;
+    
+}
+
+#f5_161 {
+
+
+position: absolute;
+width: 263px;
+height: 29px;
+left: 1090px;
+top: 827px;
+
+font-family: Sarabun;
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 29px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: rgba(255, 255, 255, 0.65);
+}
+
+#ff-compose {
+    position: absolute;
+    left: 785px;
+    top: 191px;
+}

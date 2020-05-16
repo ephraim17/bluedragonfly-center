@@ -1,0 +1,73 @@
+.intercom-namespace .intercom-kyolyo {
+    z-index: 2147483000;
+    position: fixed;
+    bottom: 100px;
+    right: 100px !important;
+    width: 706px !important;
+    min-height: 250px;
+    max-height: 604px;
+    border-radius: 8px;
+    overflow: hidden;
+    opacity: 1;
+    height: calc(100% - 120px);
+}
+
+
+#z1_1 {
+    position: absolute;
+width: 1440px;
+height: 1016px;
+left: 0px;
+top: 0px;
+
+background: linear-gradient(180deg, #204458 0%, rgba(32, 68, 88, 0.12) 172.93%);
+}
+
+#z1_2 {
+    position: absolute;
+width: 290px;
+height: 448px;
+left: 30px;
+top: 139px;
+
+background: #FFFFFF;
+border: 1px solid #D0D0D0;
+box-sizing: border-box;
+border-radius: 7px;
+}
+
+#z1_3{
+    position: absolute;
+width: 106px;
+height: 106px;
+left: 120px;
+top: 191px;
+
+transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+
+#z1_4 {
+    position: absolute;
+width: 229px;
+height: 156px;
+left: 72px;
+top: 304px;
+}
+
+#z1_5 {
+    position: absolute;
+width: 32px;
+height: 29px;
+left: 190px;
+top: 350px;
+
+}
+
+#z1_6 {
+    position: absolute;
+width: 126px;
+height: 49px;
+left: 105px;
+top: 530px;
+
+}

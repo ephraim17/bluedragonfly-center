@@ -1,0 +1,188 @@
+#e5_1{
+    position: absolute;
+width: 1440px;
+height: 777px;
+left: 0px;
+top: 0px;
+
+background: linear-gradient(180deg, #00FFEF -29.38%, rgba(32, 68, 88, 0.12) 172.93%);
+}
+
+#e5_2{
+    position: absolute;
+width: 472px;
+height: 354px;
+left: 102px;
+top: 291px;
+}
+
+#e5_3{
+    position: absolute;
+left: 57.99%;
+right: 6.88%;
+top: 27.16%;
+bottom: 66.41%;
+
+font-family: Sarabun;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 31px;
+
+color: #FFFFFF;
+}
+
+#e5_4 {
+    position: absolute;
+left: 57.99%;
+right: 11.39%;
+top: 32.69%;
+bottom: 59.33%;
+}
+
+#e5_5 {
+    position: absolute;
+width: 233px;
+height: 33px;
+left: 835px;
+top: 346px;
+}
+
+#e5_6 {
+    position: absolute;
+width: 193px;
+height: 33px;
+left: 1091px;
+top: 346px;
+}
+
+#e5_7 {
+    position: absolute;
+width: 511px;
+height: 60px;
+left: 835px;
+top: 609px;
+
+}
+
+#e5_8 {
+    position: absolute;
+width: 511px;
+height: 56px;
+left: 835px;
+top: 413px;
+
+background: rgba(255, 255, 255, 0.95);
+border-radius: 5px;
+}
+
+#e5_81 {
+    position: absolute;
+left: 5.1%;
+right: 22.78%;
+top: 54.31%;
+bottom: 40.8%;
+
+
+}
+
+#e5_9 {
+    position: absolute;
+width: 511px;
+height: 56px;
+left: 835px;
+top: 489px;
+
+background: rgba(255, 255, 255, 0.95);
+border-radius: 5px;
+}
+
+#e5_10 {
+    position: absolute;
+width: 24px;
+height: 24px;
+left: 839px;
+top: 565px;
+
+background: rgba(255, 255, 255, 0.74);
+}
+
+#e5_11 {
+    position: absolute;
+left:874px;
+right: 305px;
+top: 578px;
+bottom: 181px;
+display: flex;
+align-items: center;
+}
+
+#e5_12 {
+    position: absolute;
+left: 87.01%;
+right: 6.46%;
+top: 578px;
+bottom: 23.29%;
+}
+
+#e5_13 {
+    position: absolute;
+width: 210px;
+height: 70px;
+left: 87px;
+top: 702px;
+}
+
+#e5_14 {
+    position: absolute;
+width: 323px;
+height: 25px;
+left: 565px;
+top: 735px;
+
+}
+
+#e5_15 {
+    position: absolute;
+width: 24px;
+height: 24px;
+left: 1058px;
+top: 735px;
+}
+
+#e5_16 {
+    position: absolute;
+width: 263px;
+height: 25px;
+left: 1090px;
+top: 735px;
+
+}
+
+#e5_61 {
+    position: absolute;
+width: 511px;
+height: 0px;
+left: 835px;
+top: 379px;
+
+border: 3px solid rgba(255, 255, 255, 0.1);
+}
+
+#e5_62 {
+    position: absolute;
+width: 255px;
+height: 0px;
+left: 1091px;
+top: 379px;
+
+border: 3px solid #FFFFFF;
+}
+
+#e5_121 {
+    position: absolute;
+left: 1024px;
+
+top: 671px;
+
+}
